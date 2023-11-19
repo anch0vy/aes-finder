@@ -2,7 +2,7 @@ AES Finder
 ==========
 
 Utility to find AES keys in running process memory.
-Works for 128, 192 and 256-bit keys.
+Works for 128, 192 and 256-bit keys..
 
 
 Usage
